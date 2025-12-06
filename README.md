@@ -1,3 +1,6 @@
 # Thesis-codes-derivative-etc.
 A code to replicate my thesis work
 It is important to creat a virtual enivorment for serval packages.
+---
+
+**Panel.do** can find all the related regressions (OLS, Panel, Hausman test)
